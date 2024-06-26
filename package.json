@@ -1,6 +1,6 @@
 {
   "name": "terrae-web",
-  "homepage": "https://terrae-org.github.io/web",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
